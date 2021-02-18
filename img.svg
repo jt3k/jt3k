@@ -20,12 +20,12 @@
         }
 
         .bad-day {
-          color: #24292e;
+          color: #444;
           font-weight: 600;
         }
 
         .taken-over {
-          color: #24292e;
+          color: #444;
           margin-top: 0;
           margin-bottom: 16px;
         }
